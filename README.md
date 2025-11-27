@@ -1,4 +1,4 @@
-# Kruscinski | Controle de TI
+# Vogel | ControlSuport
 
 Sistema completo de gestão e controle para empresas de suporte técnico e TI, desenvolvido para otimizar o gerenciamento de clientes, ordens de serviço e estoque.
 
