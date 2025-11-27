@@ -4,7 +4,7 @@ Sistema completo de gestão e controle para empresas de suporte técnico e TI, d
 
 ## 📋 Sobre o Projeto
 
-O **Kruscinski | Controle de TI** é uma ferramenta web desenvolvida para facilitar o dia a dia de empresas de suporte técnico, oferecendo controle completo sobre:
+O **Vogel | ControlSuport** é uma ferramenta web desenvolvida para facilitar o dia a dia de empresas de suporte técnico, oferecendo controle completo sobre:
 
 - **Clientes**: Cadastro completo com dados pessoais, endereço e documentação
 - **Ordens de Serviço**: Gestão de atendimentos técnicos com acompanhamento de status, valores e observações
